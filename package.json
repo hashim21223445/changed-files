@@ -39,7 +39,7 @@
     "@octokit/rest": "^21.0.0",
     "@stdlib/utils-convert-path": "^0.2.2",
     "lodash": "^4.17.21",
-    "micromatch": "^4.0.5",
+    "micromatch": "^4.0.8",
     "yaml": "^2.3.1"
   },
   "devDependencies": {
