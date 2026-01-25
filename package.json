@@ -38,7 +38,7 @@
     "@actions/github": "^6.0.1",
     "@octokit/rest": "^21.0.0",
     "@stdlib/utils-convert-path": "^0.2.2",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "micromatch": "^4.0.5",
     "yaml": "^2.8.2"
   },
